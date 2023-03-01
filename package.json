@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator-2",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realstranger01/Team-Profile-Generator-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Realstranger01/Team-Profile-Generator-2/issues"
+  },
+  "homepage": "https://github.com/Realstranger01/Team-Profile-Generator-2#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
