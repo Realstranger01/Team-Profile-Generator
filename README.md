@@ -2,9 +2,7 @@
 
 ## Getting Started:
 
-preview [Team-Profile-Generator](./assets/screencapture-file-C-Users-44749-Documents-bootcamp-weekly-challenge-week12challenge-Team-Profile-Generator-2-output-team-html-2023-03-01-16_45_09.png)
-
-Simply open up the link [Sample Team-Profile-Generator](./output/team.html) and explore the team.html Sample:
+![Team-Profile-Generator](./assets/screenshot.png)
 
 ### Description
 
